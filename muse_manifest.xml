@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ICT.COM" resolutions="1x" timestamp="1570522301961">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ICT.COM" resolutions="1x" timestamp="1570523344583">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3924411064" ref="index"/>
@@ -32,5 +32,5 @@
     <file name="u412.png" crc="35863930" ref="index"/>
     <file name="u412-r.png" crc="35863930" ref="index"/>
   </folder>
-  <file name="index.html" crc="4159165766" seo="true" mt="1570522289716" redirect="true"/>
+  <file name="index.html" crc="3804087891" seo="true" mt="1570523321335" redirect="true"/>
 </manifest>
